@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+notebooks/
+data/*
+!data/processed/
+data/processed/*
+!data/processed/xgb_model.json
+*.pdf
+CLAUDE.md
